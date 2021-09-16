@@ -11,7 +11,19 @@ It uses [Bootstrap](http://startbootstrap.com/). So, it is plain HTML/CSS/JS fil
 VVBL Website was created by Etienne Juliot ([@ejuliot](https://github.com/ejuliot) and is maintained by Olivier Varloud [@varloud](https://github.com/ovarloud/) and Josselin Lafay
 
 
-## How to install?
+## How to modify?
+
+The easiest way to modify one page is to directly use the Github text editor. For more complex changes with impact on several files, use one IDE below.
+For non developers, follow these steps:
+* Clic on index.html
+* Clic on the pen icon (edit this file).
+* You should arrive on this page: https://github.com/VVBL/VVBL.github.io/edit/master/index.html  (you can also directly on this link)
+* Search in the text the string or sentence you want to replace (you can use Control+F to search in a web page)
+* Be careful to not change an HTML tag if you don't know what you are doing
+* At the bottom of the page inside a "commit change" section, write a summary of your modifications
+* Clic on "commit change"
+* Wait around 10 min to watch the result on vvbl.org
+
 
 To modify any part of this site, you can use any IDE you want:
 * Eclipse IDE
