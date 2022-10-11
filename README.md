@@ -26,11 +26,11 @@ For non developers, follow these steps:
 
 
 To modify any part of this site, you can use any IDE you want:
-* Eclipse IDE
+* Github.dev (the easiest): https://github.dev/VVBL/VVBL.github.io/blob/master/index.html
+* A plain text editor (such as VSCode https://code.visualstudio.com/) with GitHiub Desktop (https://desktop.github.com/)
+* Eclipse IDE (https://www.eclipse.org/downloads/packages/release/2022-09/r/eclipse-ide-enterprise-java-and-web-developers)
 * Eclipse CHE hosted on Redhat OpenShift (https://www.eclipse.org/che/getting-started/cloud/ or a direct to a pre-configured workspace at https://che.openshift.io/dashboard/#/ide/ejuliot/VVBL.github.ionq0kg)
 * GitPod (https://gitpod.io/#https://github.com/VVBL/VVBL.github.io/tree/master) 
-* Github CodeSpaces
-* A plain text editor with Git
 
 ## What to modify?
 
